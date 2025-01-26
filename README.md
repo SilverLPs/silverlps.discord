@@ -27,6 +27,8 @@ Below is a list of all modules currently included in this package, along with th
 
 This software is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
 
+This module is not affiliated with, endorsed by, or associated with Discord, Discord Inc., or its products in any way. "Discord" and all related trademarks, logos, and intellectual property are the sole property of Discord Inc.
+
 ### Disclaimer of Warranty and Responsibility
 
 BisonBackup is a private project developed in my spare time. It is provided "as is" without any warranty of any kind, either expressed or implied. I cannot offer any guarantees regarding its functionality, security, or suitability for a specific purpose. Anyone using the software does so entirely at their own risk.

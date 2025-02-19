@@ -28,4 +28,4 @@ echo "TOKEN:       MD5=$(echo -n $VAR_TOKEN | md5sum | awk '{print $1}')"
 echo "APPLOCATION: $VAR_APPLOCATION"
 echo
 cd "$VAR_APPLOCATION"
-./DiscordChatExporter.Cli exportall -t "$VAR_TOKEN" -o "$VAR_DESTINATION" --media True --reuse-media True
+./DiscordChatExporter.Cli exportall -t "$VAR_TOKEN" -o "$VAR_DESTINATION"/%c.html --media True --reuse-media True
